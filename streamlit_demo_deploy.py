@@ -1,5 +1,4 @@
 
-from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
 import streamlit as st
 from langchain.globals import set_debug
