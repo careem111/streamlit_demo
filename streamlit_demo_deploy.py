@@ -1,9 +1,9 @@
 
 from langchain_openai import ChatOpenAI
 import streamlit as st
-from langchain.globals import set_debug
 
-set_debug(True)
+
+
 
 st.title("Ask Anything from Me")
 with st.sidebar:
